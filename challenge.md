@@ -40,6 +40,7 @@ Lorem Ipsum
 ## Forking
 8. Fork this github repo https://github.com/mikedane/CoderAcademy-Documentation
 9. Clone the fork to your local machine
+      CD into that new directory that got created
 10. Create a branch called [name]-challenge-branch
 11. Add your name to the README
 12. Add, commit and push your changes to the new branch
