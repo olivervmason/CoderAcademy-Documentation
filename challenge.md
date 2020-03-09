@@ -26,7 +26,7 @@ Lorem Ipsum
 6. Add, commit and push your local changes to the remote repository.
 
 ## Clone the repo
-1. In a separate folder on your computer "git-test-2" (or whatever you want to name it) clone the `git-test-remote` repo using the URL provided by github (Don't put this folder in the original `git-test` folder)
+1. In a separate folder on your computer "git-test-2" (or whatever you want to name it) clone the `git-test-remote` repo using the URL provided by github (Don't put this folder in the original `git-test` folder) and cd into the new `git-test-remote` folder that got created
 2. Remove the first line of README.md then add, commit and push your changes to remote master
 
 ## Merge Conflicts
